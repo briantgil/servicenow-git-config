@@ -1,6 +1,11 @@
 # developer.servicenow.com
 Personal Developer Instance connection
 
+
+1. Use Basic Auth for credentials
+2. Provide Git personal access token for password
+
+
 ## References
 
 ### Source Control:
