@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="My Second App">e0e24b9fc3d21110343a2e5ce001313a</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Closed</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order>5</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=false^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 04:47:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>38e2c7dfc3d21110343a2e5ce00131c1</sys_id>
+        <sys_name>Closed</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Second App" source="x_562840_my_app">0072c31fc3d21110343a2e5ce00131cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Second App">0072c31fc3d21110343a2e5ce00131cf</sys_scope>
+        <sys_update_name>sys_app_module_38e2c7dfc3d21110343a2e5ce00131c1</sys_update_name>
+        <timeline_page/>
+        <title>Closed</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
