@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Test</description>
+        <device_type>browser</device_type>
+        <hint>Test</hint>
+        <name/>
+        <order/>
+        <roles>public</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-10-08 04:47:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e0e24b9fc3d21110343a2e5ce001313a</sys_id>
+        <sys_name>My Second App</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="My Second App" source="x_562840_my_app">0072c31fc3d21110343a2e5ce00131cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Second App">0072c31fc3d21110343a2e5ce00131cf</sys_scope>
+        <sys_update_name>sys_app_application_e0e24b9fc3d21110343a2e5ce001313a</sys_update_name>
+        <title>My Second App</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
