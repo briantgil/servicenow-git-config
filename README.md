@@ -1,9 +1,10 @@
 # developer.servicenow.com
 Personal Developer Instance connection
 
-
-1. Use Basic Auth for credentials
-2. Provide Git personal access token for password
+1. Create repository in GitHUb, GiutLab, etc
+2. Link application to source control
+    1. Use Basic Auth for credentials
+    2. Provide Git personal access token for password
 
 
 ## References
