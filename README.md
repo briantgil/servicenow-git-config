@@ -9,8 +9,8 @@ Personal Developer Instance connection
 
 ## References
 
-### Source Control:
+#### Source Control:
 https://developer.servicenow.com/dev.do#!/learn/courses/tokyo/app_store_learnv2_devenvironment_tokyo_managing_the_development_environment/app_store_learnv2_devenvironment_tokyo_source_control/app_store_learnv2_devenvironment_tokyo_source_control_objectives
 
-### Linking an Application to Source Control:
+#### Linking an Application to Source Control:
 https://developer.servicenow.com/dev.do#!/learn/courses/tokyo/app_store_learnv2_devenvironment_tokyo_managing_the_development_environment/app_store_learnv2_devenvironment_tokyo_source_control/app_store_learnv2_devenvironment_tokyo_linking_an_application_to_source_control
