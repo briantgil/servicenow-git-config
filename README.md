@@ -1,5 +1,5 @@
 # developer.servicenow.com
-Personal Developer Instance connection
+Personal Developer Instance connection for source control
 
 1. Create repository in GitHUb, GiutLab, etc
 2. Link application to source control
